@@ -9,4 +9,4 @@ Basic Programming for Data Science and Data Visualization : สุภาวด�
 
 # Final_group
 * [Colab](https://github.com/SupawadeeKhamthuy/data_viz_2022/blob/main/Final_DataViz2022.ipynb)
-* [Dashboard](https://datastudio.google.com/s/hcyRbdEMrGw)
+* [Dashboard](https://datastudio.google.com/s/sOskP2MNea0)
